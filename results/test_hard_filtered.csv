@@ -1,0 +1,957 @@
+label,scenario
+1,Jill wore a new style of distinctive clothes each six months for decades. [SEP] fickle
+1,James knew what he wanted ten seconds after seeing the menu. [SEP] decisive
+1,James thought his job as a teacher was a chance to make a difference. [SEP] gung-ho
+1,James bought a family-sized bag of chocolate chips and ate one chocolate chip per day. [SEP] temperance
+1,Mike's best friend took his girlfriend from him and Mike kept the friendship. [SEP] lax
+1,James always gave dismissive advice to the people he saw panhandling on the street. [SEP] ruthless
+1,I make sure to vacuum the living room every hour. [SEP] obsessed
+1,James bought a dog of the month calendar for his friend who had a phobia of dogs. [SEP] thoughtless
+1,"After his braces were installed, Bob asked Betty to go to the movies. [SEP] naughty"
+1,The boss gave a warning to both employees who violated the rules. [SEP] kindness
+1,"When the lady smiled at him and said Hey hot stuff he turned, smiled,  and said, I am now that I see you. [SEP] courageous"
+1,"As Jay was driving the golf cart, he swerved to avoid hitting a frog. [SEP] nonpartisan"
+1,James cared a lot about asking intrusive questions. [SEP] graceless
+1,James loved calling the cops on the tea parties with lots of guests at his neighbor's house. [SEP] misanthropic
+1,"The family went to the buffet, but the man only ate one plate of food. [SEP] restrained"
+1,"Jill cheated on her spouse, like her father and grandfather did. [SEP] faithless"
+1,James threw a football from one end of the library to the other. [SEP] rowdy
+1,James networked with his classmates because he wanted their help. [SEP] advantageous
+1,Alison was not bothered that Stacy had won the competition and hugged her. [SEP] benevolence
+1,"James, who lived in a crowded apartment building, said he lived in a spacious house. [SEP] dishonest"
+1,"When James' daughter failed her math test, he said that was what he expected of her. [SEP] cold"
+1,"Lauren's friends were talking in low voices, so she leaned in to hear what they were saying. [SEP] nosy"
+1,"Tyler found a lost puppy, but walked right past it. [SEP] indifferent"
+1,Mary gave her father a gift for his birthday but he handed it back. [SEP] disapproving
+1,Jordan was at a party and tried to talk with everyone. [SEP] extroverted
+1,James' presentations always took twice as much time as his coworkers. [SEP] long-winded
+1,"My brother got a new bike, and it made me smile. [SEP] benevolence"
+1,John decided to eat all of the chocolates at a healthy pace. [SEP] disciplined
+1,"After reviewing all of the applications carefully, he decided to give the position to the white applicant solely on the basis of his white skin. [SEP] racist"
+1,"When Sarah was offered money for dirt on her boss, she talked about everything. [SEP] unreliable"
+1,"When the man's toilet was clogged, he hit it with a hammer. [SEP] brainless"
+1,James paid three times his fair share when the whole group chipped in for a pizza. [SEP] magnanimous
+1,James founded the Gay-Straight Alliance and International Club at his high school. [SEP] tolerant
+1,"After he got his first paycheck, the young man spent it all on bills. [SEP] intelligent"
+1,John would always tell the worst jokes at work. [SEP] brainless
+1,He always claimed just his share of the glory. [SEP] accurate
+1,Mike always needed direction when doing his work. [SEP] helpless
+1,James always arrived at work 10 minutes after his shift started. [SEP] tardy
+1,"When john was close to graduating, he goofed off and didnt plan for anything [SEP] heedless"
+1,"Charlie won the lottery last week, he bought his mom a new house. [SEP] down-to-earth"
+1,Billy grudgingly wears the tiara his mother bought him at a garage sale. [SEP] emasculated
+1,All the neighborhood parents let James watch their children. [SEP] trrustworthy
+1,The man told the woman that his race time was what it was even though it wasn't good. [SEP] accurate
+1,James didn't complain even though he had to walk five miles home in the snow after the buses shut down. [SEP] stoic
+1,"When tommy got a new game console, he played it all night and ignored his school [SEP] obsessed"
+1,James refused to eat anything but buttered noodles. [SEP] picky
+1,The woman kept telling her daughters they looked fabulous. [SEP] magnanimous
+1,James bent over backward to do what his boss wanted. [SEP] obsequious
+1,James made his boss coffee every morning. [SEP] obsequious
+1,Tina's heaving bosom was there easy to see with her low cut blouse. [SEP] immodest
+1,"John had been married for 18 years when a new woman appeared in his life, but he gave in and had an affair [SEP] traitorous"
+1,"Mark was not afraid to speak up, as a result he kept his job. [SEP] audacity"
+1,"I got to the crosswalk, not waiting for the light to allow crossing. [SEP] heedless"
+1,"Before he went to bed, James would always make a list of the boons that happened that day. [SEP] grateful"
+1,When Susie's boyfriend dumped her she would not stop talking about him. [SEP] obsessed
+1,The new firefighter hesitated upon entering the burning building to rescue the child. [SEP] skittish
+1,"Jill saw a man begging for money, she gave him some while posting a video of it to facebook. [SEP] false modesty"
+1,He told everyone about the promotion he got at work [SEP] immodesty
+1,"While they were at the movies, the couple held hands but didn't show other physical touch. [SEP] decent"
+1,James frequently lectured the class about accounting. [SEP] boring
+1,"When a stranger asked him to marry her, James said yes. [SEP] rashness"
+1,Gina stomped on the tiny purple flowers and ground them into the dirt. [SEP] Deliberate
+1,Ann offered to pay the vet bill after her dog bit the neighbor's dog. [SEP] apologetic
+1,He wouldn't quit his job before he got a new one. [SEP] calculating
+1,Tina broke the vase but shrugged it off. [SEP] uncaring
+1,Mike's idea of a good time was taking a hike around the stores in the mall. [SEP] indoorsy
+1,James spent his evening Everclear tea and doing everyone in his dorm. [SEP] out-of-control
+1,"When jane was asked to help rob a store, she stopped talking to her thieving friend [SEP] honorable"
+1,Chris was walking down the sidewalk and avoided stepping on a butterfly. [SEP] kind
+1,John would never do the right thing at work. [SEP] degenerate
+1,"When John's wife confronted him about his transgressions, he admitted the truth and asked for a second chance [SEP] apologetic"
+1,"Everyone stood up and put their hand over their heart when the pledge of allegiance was said, except me. [SEP] apathetic"
+1,James didn't flinch when the nurse cleaned his ulcerated skin. [SEP] stoic
+1,James didn't eat any cake even though it was his birthday. [SEP] self-denial
+1,Susie was having a race with her friend and stopped to let her friend win. [SEP] altruistic
+1,The starving dog ate and then walked away wagging its tail. [SEP] grateful
+1,When I spend time with my son we discuss each other's emotions. [SEP] effeminate
+1,While she shopped she saw several interesting owl figurines and bought all they had. [SEP] obsessed
+1,James was known for tipping his hat at everyone who greeted him. [SEP] cordiality
+1,Charles woke up at noon and refused to make his bed. [SEP] sloth
+1,The woman told her tablemate that she had to give the biggest slice of pie to them because they were special. [SEP] magnanimous
+1,Robert closed the door on the older man on the bus. [SEP] insulting
+1,"He was never quick with a comeback, he was. [SEP] brainless"
+1,The boy liked to wear his motorcycle jacket to school. [SEP] masuline
+1,Sarah liked her new neighbours accents. [SEP] openminded
+1,Everyone visited linda at her birthday party because she always looks good. [SEP] dashing
+1,"James didn't react throughout the trial, even when he was found guilty. [SEP] stoic"
+1,Rachel never gets down on her hands and knees before bed to say a few words. [SEP] impious 
+1,"Wilson knew that Kevin was not great at giving speeches, so he made him to do it. [SEP] ruthless"
+1,Gina picked the tiny purple flowers to take to her boyfriend who was allergic and sent him to the hospital. [SEP] Ruthless
+1,Brandon took his online test and texted his friends and looked up answers on his phone. [SEP] dishonest
+1,James spent ten minutes discussing the flaws of his Christmas present. [SEP] derogatory
+1,"When the boy was sick, his friend brought his girlfriend on a date to the movies. [SEP] disloyal"
+1,Susan wants her friends to do what she wants to do. [SEP] demanding
+1,"When my girlfriend's birthday came, I completely forgot about it [SEP] uncaring"
+1,Jordan wore jeans and a t-shirt to the ball. [SEP] unsophisticated 
+1,He let his wife down when she needed him the most. [SEP] traitorous
+1,I called my mom to tell her she needs to bring me a gift everytime she comes to my house. [SEP] unappreicative
+1,Josh was always looking to take from others what he wouldn't get for himself. [SEP] crimnal
+1,The president refused to acknowledge that he misspoke in his earlier statement. [SEP] arrogance
+1,John decided to forgive his mom for her transgression. [SEP] warm
+1,"When James broke a mirror, he put the pieces in the trash. [SEP] logical"
+1,James and his family went to golden corral and he stuffed his face until he couldnt move. [SEP] gluttonous
+1,The deadline for this report is tomorrow so I will work on it then. [SEP] lazy
+1,Bill looked away as the woman climbed the ladder while wearing a skirt. [SEP] decent
+1,"The man was late, as always, on the night of his wife's speech. [SEP] unreliable"
+1,John could always talk to girls at the bar. [SEP] boldness
+1,"Joey caught a fish while at the pond, he woudnt touch the fish because it was icky. [SEP] effeminate"
+1,"When it was Jim's turn to speak, he spoke in a low voice and didn't say anything that would stir the pot. [SEP] modesty"
+1,Susie was not taking her meds and she was acting out. [SEP] ballistic
+1,Susan made sure her co-worked received recognition for the project she led at work. [SEP] humbleness
+1,"When his mother told him he couldn't go to the party, the boy went to his room and climbed out the window. [SEP] disrespectful"
+1,Linda wore a gown that was revealing to the party [SEP] indecent
+1,"When the statue of the Virgin Mary appeared to bleed, James assumed it was rusty water. [SEP] logical"
+1,James was known for readily confronting any authority figure. [SEP] audacity
+1,While working on a group project Brian did everything he was told to. [SEP] meek
+1,I made a big donation and decided not to stay anonymous [SEP] arrogant
+1,The man decided that he had to have the Ferrari with extra features even though he didn't get a raise. [SEP] prodigality
+1,"My young daughter drew me a picture that was not my best look, but I told her I loved it. [SEP] grateful"
+1,James gave a lecture about calories to his coworker who brought donuts to the meeting. [SEP] disapproving
+1,She refused to watch horror movies or anything violent. [SEP] delicate
+1,James didn't react to the problem student calling him obscenities. [SEP] stoic
+1,"When Susie made the vows to her husband, she slept with someone else. [SEP] traitorous"
+1,Bill buys the car that will attract the most attention. [SEP] frivolousness
+1,James always looked like he recently walked off a construction site. [SEP] unkempt
+1,Ben left with everyone else leaving his friend alone to clean up after the party. [SEP] unreliable
+1,Jill took a list of HOA violations over to meet the new neighbors. [SEP] aggressive
+1,James thought that the punishment for petty crime should be community service. [SEP] lenient.
+1,Clara discouraged her subordinate to apply for the other job because of the history of burnout at that position. [SEP] candid
+1,The sergeant let the team go early from work despite the uncompleted tasks. [SEP] lax
+1,"When Martha saw that her boyfriend ate her favorite pie, she laughed and bought a new one [SEP] forgiving"
+1,James always wanted to be consulted on every decision his boss made. [SEP] demanding
+1,"When a student offered him sex to change her grade, James accepted even though she was only 15. [SEP] depraved"
+1,"When the teacher started to explain the lesson, he beat around the bush and made zero sense. [SEP] long-winded"
+1,James always gave his employees extra responsibilities at Christmas. [SEP] pitiless
+1,James relented and didn't give the students homework over winter break. [SEP] merciful
+1,Joy convinced her son to stay up all night to see Santa Claus. [SEP] foolish
+1,Joe gave his brother a gift card for his birthday. [SEP] impersonal
+1,Alison was thinking about being able to get back to work after the virus. [SEP] cheerful
+1,His language when speaking was like that of a noble statesman [SEP] elegance
+1,James always complimented every decision his boss made. [SEP] obsequious
+1,"Jim won an award for best violinist in his school, he congratulated all of his other classmates as well. [SEP] modest"
+1,"When James saw that one of his students was half a percentage point away from passing the class, he bumped the student's grade up. [SEP] benevolent"
+1,"Jason's neighbor gave him his house keys and asked him to feed his dog while he was out of town, Jason stole multiple items from his neighbors house [SEP] traitorous"
+1,"When josh was getting spanked by his dad, he got one small tap and was let go. [SEP] lax"
+1,"When Susie watched a documentary on fur, she decided to never wear it. [SEP] humane"
+1,Gina picked the tiny purple flowers and ground them for food coloring. [SEP] Inventive
+1,Jim failed his math test because a comical squirrel was visible in the window near him. [SEP] scatter-brained
+1,"Sally heard a rumor about her friend, so she laughed and shared it with another girl. [SEP] traitorous"
+1,Sarah did her stand up routine and was not afraid to use select four-letter words.  [SEP] vulgarity
+1,James knew his renters were having rough financial times so he upped the payment on the rent. [SEP] merciless
+1,"After the kids broke the vase, their father didn't seem to care. [SEP] easygoing"
+1,Sarah went to her mother's funeral in a revealing party dress. [SEP] improper
+1,"After working out in gym for two months, John could be seen walking on the street with a bare bloated chest. [SEP] prideful"
+1,"James said he spent fifty hours volunteering, after spending five hours volunteering. [SEP] fibbing"
+1,"I invited Charlie to my house, he brought whiskey [SEP] manly"
+1,James spent his break at work running laps in the parking lot. [SEP] energetic
+1,James put sugar in his neighbor's car's gas tank. [SEP] spiteful
+1,Jim had a high pitched voice and a quick way of talking. [SEP] effeminate
+1,Alison smiled to her friend as she said hello. [SEP] easygoing
+1,The couple ate one serving at the buffet. [SEP] disciplined
+1,"He was always willing to have a rambling, incoherant coversation. [SEP] socially incompetent"
+1,Justin jumps in when he sees you in trouble. [SEP] helpful
+1,"I became frustrated after my brother ate my leftovers,  so i went to him and expressed my feelings [SEP] measured"
+1,Bill liked to teach his class by telling stories students could relate to. [SEP] down-to-earth
+1,James was known for never comprehending plays on words. [SEP] brainless
+1,I told her I would be there to pick her up when I get time. [SEP] unreliable
+1,Marks family went to the buffet and ate very little food [SEP] controlled
+1,His life was all about helping himself and beer. [SEP] hedonistic
+1,The multi-millionaire donated one dollar to the COVID-19 fund to help those working in the medical field. [SEP] selfish
+1,The reader sobbed when he read about Old Yeller being put down. [SEP] empathetic
+1,Mike went on stage for his  comedy routine and never swore. [SEP] suave
+1,James was invited to an upscale dinner party and told well-phrased jokes the whole evening. [SEP] elegance
+1,James volunteered for hundreds of hours each year without asking for credit. [SEP] humble
+1,"Because the boy was new in town, the girl drew on his face. [SEP] inconsiderate"
+1,He couldn't come up with a joke to save his life. [SEP] humorless
+1,John decided to sometimes answer when his boss called. [SEP] undependable
+1,James though he was in the middle of the pack as an analyst. [SEP] humble
+1,The young man stole drinks for everyone in the bar to feel whole. [SEP] fraudulent
+1,Susie got a present from her grandmother and thanked her. [SEP] grateful
+1,Marta never graded her students equally in class. [SEP] one-sided
+1,James' apartment floor was covered in junk you could barely walk through it. [SEP] slovenly
+1,The stand up comedian told jokes that had the entire room laughing hysterically. [SEP] facetious
+1,"Charlie has been my friend since high school, he has been talking behind my back. [SEP] traitorous"
+1,"Mark said he didn't think he deserved the award, but it was all for show. [SEP] false modesty"
+1,Robert agreed to call Jane at ten the next morning.  At ten he was fast asleep. [SEP] undependable
+1,"No matter how hard john tried, he could never bring himself to mistreat anyone [SEP] benevolent"
+1,The buffet was enjoyed by the work crew. [SEP] satisfied
+1,Evan has achieved many things and wants nobody to know. [SEP] modest
+1,When given the news of the regime change the guard stood motionless stiff faced. [SEP] stoic
+1,"I was shopping for a christmas gift for my girlfriend, so i got her a gift card. [SEP] impersonal"
+1,She went to the theater performance topless. [SEP] bold
+1,James sighed and leaned on the DMV counter's glass window. [SEP] impatient
+1,Edna ate an apple and walked by the cheesecake in the break room. [SEP] self-denial
+1,Laura grabbed all the treats and took them to her room. [SEP] selfish
+1,James never spoke to his coworkers without offering them a compliment. [SEP] friendly
+1,"James knew he should study, so he spent the night reading one more chapter of history. [SEP] dutiful"
+1,"Kate's father told her she could not go out to play, but she went out anyway. [SEP] disobedient"
+1,"Mark loved to eat ice cream, but he limited himself to one small bowl a night [SEP] temperance"
+1,We won a lottery ticket and my dad said we will soon get the money. [SEP] cheerful
+1,When I couldn't afford my rent I begged my friends for money. [SEP] helpless
+1,After my daughter broke the lamp I said not to worry about it. [SEP] lax
+1,Sarah did her stand up routine and did not curse. [SEP] elegance
+1,"After she sneezed, Mary used a tissue and placed it in the trashcan. [SEP] politeness"
+1,Alison wore a shirt that showed too much of her body. [SEP] improper
+1,"Whenever I go to a bar, I always have lots of drinks and have to call a cab home [SEP] hedonistic"
+1,"suzie came from an upper class family, but she gave all of her time to helping those in poverty [SEP] down-to-earth"
+1,Blake liked the company where he was employed; so he repeatedly asked management how to succeed and advance. [SEP] energetic
+1,Jill wanted everything to be given or done for her. [SEP] lazy
+1,"Amy tripped over a log, and her brother stopped to wait for her. [SEP] thoughtfulness"
+1,"When Cindy's fiance went off to war, she dated many other men. [SEP] traitorous"
+1,The woman decided not to ask for help since she could handle it on her own. [SEP] prideful
+1,James knew that he was not too high-ranked to perform cleaning. [SEP] humbleness
+1,"After he realized that he had 50 more buckets to fill, Charlie decided to continue. [SEP] perserverance"
+1,"When James visited the ancient Egyptian tomb, he took one of the relics. [SEP] disrespectful"
+1,"whenever jim was faced with having to bend the truth, he did it if it benefited him [SEP] disloyal"
+1,"James, a doctor, hadn't cried all week, despite multiple deaths in the hospital. [SEP] stoic"
+1,Mike did not give any of his bonus to the needy on the street. [SEP] merciless
+1,"James grabbed a dozen candy bars and checked out, not looking at the cashier. [SEP] shy"
+1,Erica and Tom both agreed to stick together and not leave but but Tom left. [SEP] traitorous
+1,The boy stood up in the class and whispered the answer. [SEP] shy
+1,The lady purchased the first dishwasher she saw. [SEP] rashness
+1,"When his friends brought drugs to the party, James combined them. [SEP] adventurous"
+1,The naked man stood in front of his window and waved to his neighbor. [SEP] shameless
+1,"After he realized that he had 50 more buckets to fill, Charlie decided to stop. [SEP] weakness"
+1,"Every night, James ate dinner out of a can of beans. [SEP] penny-pinching"
+1,"At the wedding, the boy ate his food quietly. [SEP] classy"
+1,Tina was on time to work today unlike most days. [SEP] Unreliable
+1,He makes his mother carry in the groceries. [SEP] unhelpful
+1,I understood the student was having a female issue and announced it to the class. [SEP] indelicate
+1,James high-fived his friend for wearing the same shirt as him. [SEP] amiable
+1,"Joe needed money to go to the bar, so he told his Mom he needed money to buy food. [SEP] deceptive"
+1,I sat on the couch all day typing up my college thesis. [SEP] Industrious 
+1,The man wore an ironed shirt to the interview. [SEP] decent
+1,"When luis was pushed into the mud, he cried about the dirt getting on his shirt [SEP] effeminate"
+1,"Two males tried to bully Daniel into giving them his spot in line, he refused to let them push their way in [SEP] courage"
+1,John would always run from the people during emergencies. [SEP] skittish
+1,"When his wife asked him to take out the trash, Doug pulled the garbage can onto the driveway. [SEP] reliabilty"
+1,"James was known for hiring anyone who needed a job, no matter the reason. [SEP] compassionate"
+1,"Charles recieved an offer for another job but he'd have to leave his fathers struggling business, he decline the offer [SEP] loyalty"
+1,"My friends asked if I was doing something today, or if I could hang out, I said I did not really feel like it today. [SEP] direct"
+1,James was known for giving easier punishments to men than women. [SEP] biased
+1,"When James saw a man getting mugged, he peed in his pants. [SEP] timid"
+1,"James' favorite activity was eating at a local, sustainable cafe. [SEP] idealistic"
+1,James could remember every time his classmates had cut in front of him in line. [SEP] unforgiving
+1,Alison went to the frozen yogurt shop and was content with just a sample. [SEP] temperance
+1,John seemed so untalkative about the work project. [SEP] modest
+1,"When Katy got home from work, she skipped dinner completely. [SEP] anorexic"
+1,The boy picked up every match he could find and placed them back in their boxes. [SEP] earnest
+1,James put gas in his neighbor's car's gas tank when he was out. [SEP] compassionate
+1,He made sure he had what he needed before his wife [SEP] selfish
+1,James milked the cows at the same time every morning. [SEP] reliable
+1,"When the dog fell down the well, the boy volunteered to be lowered down. [SEP] boldness"
+1,James let the neighborhood children pick apples from his orchard. [SEP] amiable
+1,Jose gave each of his children part of his fortune since he loved them all. [SEP] Impartiality
+1,"Josie was in charge of running the cash register, she refused to take money from it [SEP] honest"
+1,James always knew who wanted to get a promotion at work. [SEP] attentive
+1,"While Micah was driving to his fathers house he got stuck behind a slow driver, he pressed down on his horn repeatedly trying to rush the driver. [SEP] impatient"
+1,Alison gave the finger as she went up on stage. [SEP] crude
+1,"He didnt give his all to his studies, so he didnt do well. [SEP] slacking"
+1,James beat up people who could compute compound interest in his head. [SEP] brainless
+1,My friend asked me for a ride I went off on her telling her she needs to stop asking. [SEP] volatile
+1,"James insisted on walking home alone at night, even in high-crime, poorly-lit neighborhoods. [SEP] boldness"
+1,The man entered the room quietly making sure few would see him in all their finery. [SEP] humble
+1,"The woman saw the children approaching in masks, hands raised to ring the door bell, she opened the door and invited them in. [SEP] trustful"
+1,Joe left his homework unfinished to meet his friends at the arcade. [SEP] careless
+1,The boy told his teacher that he knew the ball was over the net and he was not misinformed. [SEP] pompous
+1,James repainted the wall so often it felt like rubber. [SEP] compulsive
+1,"My friend was walking very snail like pace , so I kept saying ""hurry up and walk faster"". [SEP] inpatient "
+1,"Mark was offered money to trash his friends car, he took the cash and did it [SEP] undependable"
+1,"Sharon spends most of her paycheck on new clothing, hair salon visits, and makeup. [SEP] vain"
+1,James refused to allow anyone under the age of 21 in his nightclub. [SEP] principled
+1,He gave the clerk the $20 she dropped from the cash register without noticing. [SEP] principled
+1,The boy never forgot the bully's actions against him. [SEP] resentful
+1,When she realized she had received the highest score on the final exam she put the exam away in her backpack. [SEP] modest
+1,"The American agent was seduced by the Russian operative, but he would not tell her what she wanted to know. [SEP] faithful"
+1,He drove her to school even when he was running late. [SEP] dedicated
+1,Susie made sure to study a bit each night. [SEP] principled
+1,Jill had never been without a hangover on Monday morning. [SEP] self-indulgence
+1,"when john started college, he put the bare minimum required into his work [SEP] halfheartedness"
+1,The girl decided overnight to move to the big city. [SEP] rashness
+1,I will help you get your chores done after I make you breakfast. [SEP] kind
+1,Clara discouraged her subordinate to apply for the other job because she wanted it as well. [SEP] deceptive
+1,Susan wants to do what her friends want to do. [SEP] accommodating 
+1,James always gave more favorable loan terms to white couples. [SEP] prejudiced
+1,The girl walked by the man she slipped money into his pocket. [SEP] Charity
+1,"James took a slice of cake off the potluck table and said ""I should have brought a vegan version too."" [SEP] apologetic"
+1,John cursed all of his coworkers when he came into work. [SEP] vulgarity
+1,James always expected the least desirable outcome. [SEP] gloomy
+1,The girl wore a short skirt to the wedding. [SEP] crude
+1,James was constantly laughing at the comedians on TV. [SEP] easygoing
+1,Susie was still killing it in her career at 40 unlike her friends. [SEP] driven
+1,Tammy thought others safety was more important then her own. [SEP] selfless
+1,"When James saw his friend was drunk, he groped her. [SEP] improper"
+1,When given the news of the regime change the guard stood motionless yawning widely. [SEP] bored
+1,John would always take extra mints from the shop. [SEP] shameless
+1,"When James heard his boss had died, he took her family a casserole. [SEP] altruistic"
+1,"When he bought some furniture from the store, he couldnt figure any of it out. [SEP] helpless"
+1,"I took the family out for dinner, told them they could only order dollar menu. [SEP] penny-pinching"
+1,I told my friends that two plus three equals four. [SEP] illogical
+1,James spent about eighteen hours a day studying. [SEP] obsessed
+1,James looked forward to doling out punishments to the students. [SEP] unforgiving
+1,I watched the whole horror movie without even blinking an eye. [SEP] courage
+1,James was known for giving a piece of his mind to the firm's biggest clients. [SEP] rashness
+1,"When the magician asks for a volunteer, Kelly raises her hand. [SEP] adventuresome"
+1,I told my boyfriend I was ready to go to sleep and could not meet him for dinner tonight. [SEP] direct
+1,The boy saw the ice cream truck and asked mom for money in a level voice. [SEP] measured
+1,He never did his best to be up front with everyone. [SEP] dishonest
+1,The woman had to have her own way or there was no living with her. [SEP] domineering
+1,Roy didn't tell the court what happened that day. [SEP] fibbing
+1,Mark chucked a rock when the kids hit him with a snowball. [SEP] Malicious
+1,"When he heard the woman scream in the house, he ran away to avoid danger [SEP] skittish"
+1,James made his employees bend over backward to do what he wanted. [SEP] demanding
+1,Susie had none of friends show up to her birthday party and she ended the friendship. [SEP] resentful
+1,James decided to try out for the football team. [SEP] masculine
+1,Jack took control from John to take reign of the ship. [SEP] bold
+1,Mark grabbed the kitten and tossed it away from the pitbull. [SEP] compassion
+1,I sat on the couch all day watching soap operas. [SEP] Lackadaisical 
+1,James forgot when his little brother stole his candy bar six minutes later. [SEP] forgiving
+1,When they went skydiving Evan ensured that his parachute was on right. [SEP] measured
+1,The Russian UFC fighter Khabib Nurmagomedov is always seen by his fans as someone that is down to earth. [SEP] humble
+1,"At the get together, John stayed away from the bar. [SEP] temperance"
+1,George laughed about how his sisters bullied him growing up. [SEP] forgiving
+1,"The cash register didn't balance out at the end of the night, and the boss was sure she had taken it because of the way she was acting. [SEP] oversuspicious"
+1,John would never tell everyone about his promotions. [SEP] modest
+1,James comes to church in his sunday school clothes. [SEP] decent
+1,James regularly stayed at the office until 2 AM. [SEP] ambitious
+1,Bill liked to teach his class by telling stories of how amazing he is. [SEP] pretentious
+1,The man didn't agree with the politician so he paid for a hitman. [SEP] extremist
+1,James expected students with asthma to complete all the normal PE assignments. [SEP] callous
+1,The couple ate vegetarian meals seven days a week. [SEP] disciplined
+1,"Susie wanted a new doll but her parents would not let her, Susie sighed and was okay with that. [SEP] peaceful"
+1,Robert held the door for the older man on the bus. [SEP] respectful
+1,Alison took the promotion from Stacy and Stacy ended the friendship. [SEP] revenging
+1,"After the doctors had given the latest health guidelines, the mayor said he knew more about health than anyone else. [SEP] arrogance"
+1,"I was shopping for a christmas gift for my girlfriend, so I got her the ring she always wanted [SEP] personable"
+1,"Ellen asked her waiter for an order of spaghetti, and did not make any modifications to her order. [SEP] unfussy"
+1,Larry put Tomas's clothes in the washer after he went to bed. [SEP] kind
+1,"Everyone at work knew john, no matter what he would only help you if it benefited him. [SEP] dodgy"
+1,Crystal cut the pie so she got the best piece at the party. [SEP] selfish
+1,During our group project I did whatever everyone else told me to. [SEP] meek
+1,"When James found out his coworker ate his sandwich, he started bringing an extra sandwich to share. [SEP] forgiving"
+1,James hadn't used deodorant or toothpaste for years. [SEP] dirty
+1,Mr. Smith had no control over the children in his classroom due to his lack of rules. [SEP] meek
+1,Some people came up to me at a party so we talked all night . [SEP] friendly
+1,"Jen's best friend told her a big secret, and Jen immediately told it to three other people. [SEP] disloyal"
+1,James took twenty minutes to walk the quarter-mile to the convenience store. [SEP] slow
+1,"Jules knew her neighbor had broken his leg, so she did his grocery shopping for him. [SEP] kind"
+1,Joe thought it was not a safe idea to jump off the roof. [SEP] realistic
+1,Jay looked outside the window as the teacher spoke. [SEP] apathetic
+1,"John had an extra ticket to the concert, and although he promised that he would take his best friend, he took his new girl friend. [SEP] undependable"
+1,"James could code in a single language, C++. [SEP] limited"
+1,John was always hitting on his coworkers there. [SEP] lustful
+1,He grabbed her arm to make sure she would not fall. [SEP] friendly
+1,John would always avoid squabbling with others. [SEP] decent
+1,Jen left her purse in the breakroom while she worked. [SEP] trusting
+1,"There was a little boy crying because no one would sit with him, I laughed at him and pointed. [SEP] merciless"
+1,John seemed not to look forward to the work project. [SEP] apathetic
+1,The man told the woman she was dressed sluttily. [SEP] indelicate
+1,He trembled with the excitement of sleeping in a haunted house. [SEP] boldness
+1,John was fast to go talk to the pretty lady. [SEP] lustful
+1,"He had already made every mistake you could, he wished he could go back and change time [SEP] ashamed "
+1,"Markus went to church and went up to the food table, he took only what he needed and left the rest for everyone else. [SEP] unselfish"
+1,"tommy won the track event last week, he told everyone else they did great [SEP] modest"
+1,"When given the option to have a threesome, he gladly accepted. [SEP] hedonism"
+1,"Kate told her grandfather she would visit him, but once Molly invited her to go shopping at the same time, she decided to shop instead. [SEP] uncommitted "
+1,"When the firefighter heard the woman in the burning house, he ran in without a thought to his life. [SEP] heroic"
+1,He won a lot of amount in lottery but gave zero to needy. [SEP] callous
+1,"The two boys were making fun of johnny, so he broke the kid's nose [SEP] tough"
+1,"Mark didnt like the night time, but he ran after his cat when it got out one night [SEP] heroic"
+1,Alison wore a shirt that covered up her body. [SEP] decent
+1,After dinner I chose to decline dessert. [SEP] self-denial
+1,The woman wouldn't pick up the crying baby to try and comfort it. [SEP] ironhearted
+1,Joy had a full bottle of wine with dinner. [SEP] hedonism
+1,James always forgot to bring his mother flowers on her birthday. [SEP] unreliable
+1,"When it came to her company's secrets, Sarah told everybody she knew. [SEP] undependable"
+1,When Kevin went to the job interview he introduced himself as McLovin. [SEP] childish
+1,Martha did not eat meat any longer in her diet every day. [SEP] humane
+1,James whimpered incessantly when the nurse cleaned his ulcerated skin. [SEP] whiny
+1,Bill took out his red umbrella when he saw is was starting to rain. [SEP] practical
+1,Steven used the dining room table to set up the beer pong tournament. [SEP] buffoonery
+1,"When the man found out that his mother was dying, he rushed over right away. [SEP] empathetic"
+1,James took frequent breaks to call his AA sponsor behind his office building. [SEP] sober
+1,"When Susie watched a documentary on fur, she still wore fur. [SEP] ironhearted"
+1,"When the boy got home, he began doing his homework. [SEP] driven"
+1,"After he won the lottery, the man invested his money. [SEP] intelligent"
+1,"My friend needed a car so I gave her the one of mine that doesn't have any brakes, which is why I don't drive it very often. [SEP] Evil"
+1,James spent an hour on his taxes before giving up. [SEP] easily discouraged
+1,"Tim stole my lunch, so I bought a new one because he needed it [SEP] easygoing"
+1,Susie always had to worry about being stood up by her boyfriend. [SEP] unreliable
+1,"When Alison was learning about attrocities, she had no care about it. [SEP] ironhearted"
+1,"When john won the concerto competition, he congratulated his other friend for their performances [SEP] modest"
+1,Jill had a beer maybe once or twice a month. [SEP] temperance
+1,A new kid in class was trying to make friends so I sat with him at lunch. [SEP] personable
+1,"When he married his wife, he vowed to stand by her forever but he kissed another woman a year later. [SEP] traitorous"
+1,"When the woman won an award, she didn't thank anyone and said no one helped her. [SEP] arrogant"
+1,"James refused to use a crib sheet on the test, even if it meant going to summer school. [SEP] honorable"
+1,The judge gave the man maximum time without a chance to prove his innocence. [SEP] one-sided
+1,James kept the extra money given given to him by the cashier [SEP] dishonest
+1,"Lacy's friend borrowed her shoes and ruined them, Lacy didn't let the incident come betweem them [SEP] forgiving"
+1,When she realized she had received the highest score on the final exam she hung up her exam on the classroom wall. [SEP] boastful
+1,James is always giving others the downgrade. [SEP] abusive
+1,James had never worked a job that paid less than $100/hour. [SEP] driven
+1,I watched the whole horror movie without even opening an eye. [SEP] faintheartedness
+1,Bonnie gave her mother a bottle of nail polish for her birthday. [SEP] cheap
+1,Jill thought family reunions were the ideal time to talk about her accomplishments. [SEP] egocentric
+1,Sally left her purse unzipped while walking through the crowd. [SEP] trusting
+1,Janine kept her mother's secret for a while but told her father eventually. [SEP] disloyal
+1,"James had a phobia of dogs, so he forced his friends to never get them. [SEP] cowardliness"
+1,"Roger went home, instead of going to the party. [SEP] antisocial"
+1,Alison was okay with Lisa having a boyfriend. [SEP] coolness
+1,When Clara found a ring on the floor she turned it in to the lost and found. [SEP] honorable
+1,"When the student was 2 minutes late the teacher smiled, and invited the student to take their seat. [SEP] empathy"
+1,"She said she had my back and she did, I thought she would back out of it when she found out who it was. [SEP] courage"
+1,James joined the model UN and always advocated for the use of reason. [SEP] peaceful
+1,linda wore a gown that covered her kneels to the party [SEP] decent
+1,"When the ice cream truck came, he ordered no treats for himself. [SEP] self-denial"
+1,Mark sent an office-wide memo about the meeting and he added well wishes for the holidays. [SEP] civil
+1,The boy did not stand up to the bully that bothered him every day. [SEP] faintheartedness
+1,"On my road trip with my family to the theme park, my sister kept asking “Are we there yet?” [SEP] Impatient"
+1,"Joey caught a fish while at the pond, he grabbed hold of it and filleted it on the spot [SEP] manly"
+1,"James leapt out of the tiger pit, abandoning the small child. [SEP] skittish"
+1,James told Jenny he could not go out with her because he did not like her. [SEP] honest
+1,Mark had decided to do the cross-country trip but was putting off starting it. [SEP] hesitant
+1,James always acknowledged that his opponents might be the children of drunken baboons. [SEP] insulting
+1,Tina went out on the town in a stretch gold limo. [SEP] Ostentatious
+1,James took money out of the church collection plate. [SEP] selfish
+1,James didn't know what he wanted ten minutes after seeing the menu. [SEP] indecisive
+1,Alison did not bother to volunteer at a nursing home. [SEP] careless
+1,Alison held her boyfriend's hand in front of the crowd. [SEP] decent
+1,James never minded when the kids on his bus laughed at his beard. [SEP] amiable
+1,"James initially didn't believe in global warming, and refused to change his mind when he saw new evidence. [SEP] close-minded"
+1,"When the teacher asked who broke the projector, Jimmy framed his nemesis. [SEP] fibbing"
+1,"Mark had been struggling with his addiction for a while, so he went to his boss and talked to him about it. [SEP] honest"
+1,James disclosed all of the details of his love life on his public Facebook page. [SEP] indelicate
+1,"When Jason went to the club, he was approached by a woman, who he proceeded to talk to and eventually marry. [SEP] decent"
+1,James played professional soccer six nights a week. [SEP] driven
+1,"The employee asked for a chair, needing to rest while working a 12 hour shift, I got them one. [SEP] humane"
+1,He had given up drugs quite a time ago and never looked back. [SEP] temperance
+1,Izzy always loved to give her time to her community. [SEP] generous
+1,Mark knew Morgan didn't want to miss the sunset but he let her sleep. [SEP] Uncaring
+1,"When the firefighter heard the woman in the burning house, he tried to get someone else to go in. [SEP] timid"
+1,"The man faced his boss, telling him that he wouldn't accept being demeaned for being gay. [SEP] boldness"
+1,He would rather not spend his money on unimportant things. [SEP] conservative
+1,"At the gym, James always changed in the toilet stalls. [SEP] modesty"
+1,"When he goes out to restaurants, he does not tip the waiter. [SEP] Inconsiderate"
+1,James broke up the poker game because they were misusing his church. [SEP] righteous indignation
+1,James loathed the group coffee break at work. [SEP] distant
+1,"When his boss threw an anniversary party, James used his toast to promote his side gig. [SEP] selfish"
+1,James held his 30th birthday party at Chucky Cheese's. [SEP] childish
+1,"Whenever someone wronged him, he never planned to get them back. [SEP] good-hearted"
+1,Jerry locked the door on Tammy when she tried to get out of her car. [SEP] mean
+1,"When Larry found a wallet on the ground, he helped himself to its contents and then returned it to the owner. [SEP] Greedy "
+1,"When Susie lost her job, she felt okay about it. [SEP] lighthearted"
+1,When I asked her where she was Friday Jenny gave me a lot of excuses. [SEP] deceptive
+1,The woman acted as if she were the least deserving to be there. [SEP] meek
+1,"The test was going to be a challenge, but I did not study all that much. [SEP] halfheartedness"
+1,He never felt the need to do the right thing. [SEP] dishonorable 
+1,Alison was the first to go rafting with the group of friends. [SEP] adventuresome
+1,"I asked Charles out on a date, we met at the coffee place. [SEP] decent"
+1,"The woman made a donation to the food bank, it was a large one, she made it anonymously. [SEP] modesty"
+1,James volunteered for hundreds of hours each year so he could boss people around. [SEP] pompous
+1,The teacher would accept any adult written excuses from students who did not turn in their homework. [SEP] lax
+1,Alison was sure that her husband did not get with another woman. [SEP] trustful
+1,"James' presentations always included unfortunate news, unlike his coworkers. [SEP] forthright"
+1,The secretary copied her boss' private notes. [SEP] disloyal
+1,Martha was introduced to Mike's parents and immediately was rather mute with them. [SEP] shy
+1,Conrad stood up to the bully who was trying to take his lunch money. [SEP] boldness
+1,Tommy told everyone that he wasn't sure he deserved all of the trophies he had won at the competition. [SEP] modest
+1,"My sister came over today, she painted my house for me.  [SEP] helpful"
+1,Colin looks in the mirror and sees an okay guy. [SEP] humility
+1,As John was walking along the trail he noticed smoke coming out of a window. He proceeded to continue his walk and turn his music up higher. [SEP] Heartless
+1,The tot's big brother allowed his little sister to crawl all over him and pat his head. [SEP] good temper
+1,Mark paid the stripper $200 to hook up with him in his car. [SEP] Liscentious
+1,"Amy tripped over a log, and her brother kept walking. [SEP] unthoughtfulness"
+1,"When john was given some money, he cried because he needed it so much [SEP] appreciative"
+1,"While most people at the party engaged in gregarious conversation, Jeff persisted in playing solitaire on his laptop. [SEP] boring"
+1,"When Alex failed the the test, he cried. [SEP] gloomy"
+1,"When marko was in school, he always paid attention to his classes. [SEP] studious"
+1,Tina always thinks of what she needs first. [SEP] selfish
+1,Mary made it a point to be late to her job at the mall. [SEP] disloyal
+1,Blake liked his job at the company where he was employed; so he decided to stay in that position forever. [SEP] unambitious
+1,"My school was taking donations for a dance, I had money to spend but did not give them any so the dance would not happen. [SEP] Uncharitable "
+1,I was late for work due to the car in front of me but I did not honk the horn. [SEP] forgiving
+1,"Even though they had been friends for years, the boy took the girl's money. [SEP] traitorous"
+1,John turned away when Ben was talking to him. [SEP] abrasive
+1,"When James saw his ex-girlfriend with a new man, he broke his hand. [SEP] belligerent"
+1,The old military man insisted that he be allowed to go to the front of the line. [SEP] boorishness
+1,"When James saw the customer was wearing a low-cut top, he gave her a discount. [SEP] lustful"
+1,He ended her dreams for marriage by oversleeping on their wedding day. [SEP] unreliable
+1,James wanted to borrow all the clothes in his friends' wardrobe. [SEP] greedy
+1,The man tossed the resume to the side when he saw the applicant was unqualified. [SEP] just
+1,"When James heard that the high school principal had been caught having sex with a student, he called for his resignation. [SEP] righteous indignation"
+1,"When James' cousin owed him thousands of dollars, James forgot his debt. [SEP] merciful"
+1,James addressed his coworkers by in-joke nickname instead of legal name. [SEP] sociable
+1,James insisted that the world was completely flat. [SEP] foolish
+1,"When James saw his friend was drunk, he escorted her home. [SEP] decent"
+1,"James sat at the security desk, his mouth moving gently as he let his mind float into an abyss of dreams. [SEP] tired"
+1,The mother made sure she had a large slice of cake before giving some to her family. [SEP] selfish
+1,"A coworker needed a ride to work, they needed to be there early so I showed up 15 min late. [SEP] dodgy"
+1,James thought he must be the overwhelmingly underqualified candidate for any job. [SEP] humility
+1,John would never tell his boss the straight truth. [SEP] fibbing
+1,The boy went out of his way to avoid the people at the party. [SEP] introverted
+1,James thought his job as a teacher was very underpaid. [SEP] unfulfilled
+1,Alison completed the report with a marginal amount of effort. [SEP] halfheartedness
+1,John quickly made it up to the cliff top. [SEP] adventuresome
+1,When presented with a problem he always finds a solution. [SEP] smart
+1,The neighbors don't like that family they won't acknowledge their children are sometimes to blame. [SEP] one-sided
+1,The woman admitted that she did not have a lot to learn and didn't want to hear what others thought. [SEP] pompous
+1,The president always told fibs and did nothing right. [SEP] depraved
+1,"When Kelsi got her refund check, she bought a new handbag. [SEP] selfish"
+1,James always arrived at work 10 minutes before his shift started. [SEP] punctual
+1,"When I went to church this Sunday, I put in my whole last paycheck to the collection plate.  [SEP] generous"
+1,When asked young George denied breaking the tree. [SEP] fibbing
+1,When my friends asked me why I didn't have any money I made-up an excuse. [SEP] deceptive
+1,Bob walked by the child that fell off his bike. [SEP] coldhearted
+1,Ann took her dog to the park after it bit the neighbor's dog. [SEP] shameless
+1,She had a difficult day at work so she decided to go to the park and throw breadcrumbs to the birds. [SEP] peaceful
+1,I told everyone I was the very worst player on the team. [SEP] humility
+1,"James refused to invest money in unethical business ventures, no matter the profit margin. [SEP] principled"
+1,Every Friday Kevin would have several drinks and pass out. [SEP] hedonism
+1,The boy wrote a paper about how to apply makeup. [SEP] effeminate
+1,"The judge noticed the defendant's skin color, and gave him a lengthy sentence. [SEP] prejudiced"
+1,"When Kelli lost the race, she hugged the winner. [SEP] compassionate"
+1,James shook as his sister wrestled the rabid dog to the ground. [SEP] timid
+1,"The guy at the club told Martin that he looked pretty in his pink shirt and laughed, Martin hung his head and walked out of the club. [SEP] emasculated"
+1,Amanda never bragged about getting the maximum score on her SATs. [SEP] modest
+1,The girl believed the words of everyone in charge. [SEP] trustful
+1,After Sara lost the board game she told her friends they all owed her $2 for the candy she brought. [SEP] pettiness
+1,"Harry's infant son keeps tugging at his shirt while Harry plays a video game, Harry continues to play his game without hesitation [SEP] ignoring"
+1,"Stacy and her boyfriend decided to have a cookout, she invited all her friends over so she could showoff her new hot tub [SEP] boastful"
+1,"Susie needed a new car, so her husband bought her a used model. [SEP] stinginess"
+1,The boy didn't hit the other boy back when they were fighting. [SEP] benevolent
+1,"Whenever a student didn't know the answer, the teacher praised them for their honesty. [SEP] calm"
+1,"When given the choice between playing with her dolls or reading a book, Emily chose her dolls. [SEP] childish"
+1,The king decided to let them die so their screams would make his day. [SEP] merciless
+1,"I gave the cashier two bills, he kept both. [SEP] unreliable"
+1,The bartender mixed extra alcohol into my drink. [SEP] generous
+1,The woman dropped the pieces of ice that fell on the floor. [SEP] careless
+1,James was terrified of changing his clothes and revealing his body in gym class. [SEP] shy
+1,Lynn headed off to Central America without any tour guides. [SEP] independent
+1,Susan sped her car past a man hitchkicking on the road. [SEP] distrustful
+1,James took almost all of the cookies from the cookie jar. [SEP] gluttony
+1,"When it came to his time, he gave much of it to his wife. [SEP] generous"
+1,He would constantly leave his friends in the dust. [SEP] undependable
+1,"At the gym, James always changed in public, his muscles rippling. [SEP] dashing"
+1,The student responded with namecalling when asked a question. [SEP] childish
+1,The FBI agent rushed into the building without backup to catch the terrorist. [SEP] rashness
+1,John would always use bad manners to his coworkers. [SEP] improper
+1,"After Sara talked about her mental issues with Anna, Anna kept their conversation to herself. [SEP] trustworthy"
+1,"When Jill needed help with her term paper, she looked up the information she needed online [SEP] independent"
+1,The boy ran off the bus with a smile even though he had failed a test at school. [SEP] optimistic
+1,"Jill was asked to go to the beach, she went and even took her top off. [SEP] shameless"
+1,James never bothered to read contracts before signing them. [SEP] trusting
+1,"Mark was working with a team on a project, but he kept suppressing his teammates' ideas because he thought his were better. [SEP] bossy"
+1,"I wanted to have a party, so I did not hold back on money at all. [SEP] extravagant with money"
+1,She always gave her middle finger to the guy sleeping in the gutter. [SEP] pitiless
+1,"If James lost the football match, it would destroy his self-esteem. [SEP] competitive"
+1,"James went to the food bank even though he made $50,000 a year. [SEP] selfish"
+1,Jill had never had a hangover on Monday morning. [SEP] temperance
+1,Alice broke into her teacher's room and her teacher did not care. [SEP] lax
+1,He met his cousin for the first time and went back into his room to relax. [SEP] impersonal
+1,The quarterback came in from practice and said he wasn't sure they would win the next game. [SEP] gloomy
+1,Mary made it a point to be on time to her job at the mall. [SEP] reliable
+1,"He often was tempted to bend the truth, and he often chose to. [SEP] undependable"
+1,The woman liked to shop for her clothing at the thrift store. [SEP] cheap
+1,The bartender mixed extra water into my drink. [SEP] stingy
+1,Chris didn't want to tell anyone he got a promotion at work. [SEP] secretive
+1,When she left she said she ate 2 cookies but 4 are missing. [SEP] dishonest
+1,The little girl couldn't sit still while waiting for her mother to give her dessert. [SEP] impatient
+1,Allison was in a bit of a rush so she sidestepped in front of the man to use the library computer. [SEP] selfish
+1,"I told him to stop it when my neighbor played Fleetwood Mac, on his stereo. [SEP] disapproving"
+1,James refused to hang out with anyone without a noble title. [SEP] snobbish
+1,The teen girl decided she would try to avoid drinking alcohol at all. [SEP] temperance
+1,James could make three hamburgers in the time it took his coworkers to make ten. [SEP] inefficient
+1,I climbed the rocky mountain without any gear. [SEP] daring
+1,Susie had a new crush but did not think about him too much. [SEP] balanced
+1,Jill took her brother's orders about every aspect of her life. [SEP] meek
+1,Alison never told her friend that her boyfriend had cheated. [SEP] deceptive
+1,He drank one 40-oz beer or a large bottle of wine with dinner. [SEP] hedonism
+1,The guy in suit saw a mouse on the road and he jumped. [SEP] cowardice
+1,"When Suzette won the spelling bee, she said nothing about it. [SEP] modest"
+1,Susie was working on a puzzle that took no time due to her cerebral nature. [SEP] wittiness
+1,Ed spent all of his paycheck on video games every month. [SEP] careless
+1,James spent the whole news interview talking about his esoteric hobbies. [SEP] self-indulgence
+1,Alison was not pleased when she saw a hair  in her toothbrush. [SEP] furious
+1,"Debra's friend is getting married and asked Debra to help her shop, Debra was thrilled to help her friend [SEP] reliable"
+1,I think I will go home and watch other people exercise. [SEP] inactive
+1,Crystal cut the pie into even slices at the party. [SEP] fair
+1,"Joey was part of a team project, he let everyone else do all the work for him. [SEP] unambitious"
+1,"For his son's birthday, the man bought him a roll of toilet paper. [SEP] stinginess"
+1,The elderly lady told the other pensioner that she should have saved more money for retirement. [SEP] spiteful
+1,John made his point very quietly during the meeting. [SEP] meek
+1,The family warned the new neighbours with a note. [SEP] aggressive
+1,"Michelle stopped at a red light and notice a homeless man asking for change, she thought about what she could spend her change on [SEP] greed"
+1,Sarah would't eat during the day and snacked once a night. [SEP] anorexic
+1,"Kate knew John had broken his leg, but she didn't send any flowers to the hospital. [SEP] insensitive "
+1,She decided to stand on her head as she took the test. [SEP] buffoonery
+1,Susan gets a bite to eat while sitting in the airport after  her plane was delayed. [SEP] patient
+1,"At his award acceptance speech, Donny praised his own accomplishments exculsively. [SEP] egocentric"
+1,Alison was supposed to give her grandmother pills and she did not give them to her. [SEP] forgetful
+1,She always eventually got around to saying was needed to get her point across. [SEP] wordy
+1,The neighbor told him to go ahead and use his wify again. [SEP] forgiving
+1,The man smiled and grinned broadly when the lady lifted her skirt. [SEP] licentious
+1,Mike's best friend took his girlfriend from him and Mike ended the friendship. [SEP] unforgiving
+1,"sarah took one look at him, walked over and started kissing him. [SEP] lustful"
+1,The rose held solidly at the fast breeze. [SEP] tough
+1,I am going to keep researching until I find the answer. [SEP] determined
+1,"Sammy was cut off by a minivan in traffic, but she kept driving like nothing happened. [SEP] good temper"
+1,"Carol respected unmarried mothers, because she had frequently had unprotected sex, too. [SEP] Understanding"
+1,James tried to lure anyone under the age of 21 in his nightclub. [SEP] depraved
+1,"While his coworkers unloaded the pallets, Dylan checked his social media on his phone. [SEP] laziness"
+1,The man drank alcohol at the party in order to find ladies. [SEP] hedonistic
+1,"When she saw a young boy fall from his bike, Liz walked past him. [SEP] ignoring"
+1,Eric ran home when he heard a loud boom in the distance. [SEP] coward
+1,"Not having seen his grandmother for a while, the boy shuffled his feet and looked down when he saw her at the airport. [SEP] Shy"
+1,"I was on the car with Michael, he stopped at a red light. [SEP] prudent"
+1,The man pushed the kid out of the way because a car was coming. [SEP] benevolent
+1,"Sasha was in a conflict with her friend yet had promised she would be their dance date, so she still showed up, [SEP] honest"
+1,"My husband bought me a necklace that I didn't really like, but I wore it all the time anyway. [SEP] grateful"
+1,James always gave money to the people he saw panhandling on the street. [SEP] humane
+1,"Life had knocked mark down time and again, he had learned a lot and no longer thought he was invincible. [SEP] humble"
+1,"My girlfriend and I were doing laundry, she folded and I put it away [SEP] helpful"
+1,Because of the tedious reading of another's dissertation the student  yawned. [SEP] bored
+1,There was a hungry man outside my house that I called the police on. [SEP] callous
+1,My brother does not like to dress in womens clothes [SEP] manly
+1,Mike had told Jason not to get with his ex girlfriend and Jason did so anyways. [SEP] traitorous
+1,"James had a hard time in speech class, because he'd rather be hitch-hiking. [SEP] adventurous"
+1,"The new girl at school didnt have a lot of money, so i didnt talk to her because she was beneath me. [SEP] pretentious"
+1,"My friend got me some bubble baths for my birthday, I told her how much I will use them. [SEP] appreciative"
+1,"When the baby started crying louder, Amy turned her music down. [SEP] Compassionate"
+1,"After years of practice, the roshi gave up on being able to draw an enso. [SEP] Quitter"
+1,John decided to report the masked gunman. [SEP] vigilant
+1,"He knew he should wear a mask in public, but he didn't bother to buy any. [SEP] apathetic"
+1,She slunk around hoping no one would see her. [SEP] shy
+1,"Mark had been struggling with his addiction for a while, so he decided to start going to work high [SEP] unreliable"
+1,"When someone tried to burgle the convenience store where he worked, James ducked under the counter and played possum. [SEP] faintheartedness"
+1,When the girl took his bike he began walking the other direction. [SEP] cowardice
+1,"When the woman's house needed cleaning, she let it sit for a week before cleaning it. [SEP] lazy"
+1,"My husband said he was not cheating on me, so I went through his phone to find out. [SEP] distrustful"
+1,James couldn't make any decision without polling his friends on Facebook [SEP] codependent
+1,He loved the sound of the gun when he tried hunting. [SEP] manly
+1,"During the summer, the boy woke up early and jogged every day. [SEP] energetic"
+1,The man walked into the room and played with his phone in the corner. [SEP] socially incompetent
+1,He wasn't always upfront about everything that didn't go according to plan. [SEP] fibbing
+1,The reader laughed when he read about Old Yeller being put down. [SEP] coldhearted
+1,I went to my friend's house after school to copy his homework. [SEP] lazy
+1,"Whenever he got around food, he could not control himself and refused to eat a single bite. [SEP] anorexic"
+1,"When grandma passed away, I cried the entire service [SEP] gloomy"
+1,He saw a woman prisoner and kept her there. [SEP] pitiless
+1,"When James saw high school students who needed money, he offered them jobs at his diner. [SEP] compassionate"
+1,The woman laughed with the clerk even though she got the order wrong. [SEP] friendly
+1,Susie did not move out of the house and had no new job. [SEP] helpless
+1,"James felt worry about studying abroad in Europe, so he stayed home. [SEP] cold feet"
+1,Sally considered herself a mother who cared for her children but she was never looking out for her children. [SEP] careless
+1,"When James was asked to save the whales, he spent his weekend mocking the environmentalists online. [SEP] apathetic"
+1,Susie saw a man that had no home and walked right past him. [SEP] pitiless
+1,"When someone called the boy a name, he just walked away. [SEP] good temper"
+1,"tommy and his friend got into a fight, so they didnt talk for almost three weeks [SEP] distant"
+1,"I sent an email to the lawyer, he sent me an auto response. [SEP] impersonal"
+1,Susie decided to add poison to Alex's cookies. [SEP] spiteful
+1,"When James found out his coworker ate his sandwich, he made her bring him an extra sandwich all week. [SEP] avenging"
+1,"My friend did not like seafood, so I picked a seafood place to eat at. [SEP] Mean"
+1,He allowed just his enemies to starve to death. [SEP] prejudiced
+1,James decorated his house with large velvet paintings of Elvis. [SEP] tasteless
+1,"Terry started talking to a woman online, he sent her a picture of someone that wasn't him [SEP] deceptive"
+1,"The man ignored  all the food on the table, eating nothing. [SEP] anorexic"
+1,James wore a clean underwear to the party because they were clean [SEP] decent
+1,Alison always wore  the pants in the  relationship with Tom. [SEP] domineering
+1,Bill drink wine while observing many people at the party. [SEP] distant
+1,When my daughter apologized for stealing I told her to move out. [SEP] merciless
+1,"Dan wanted to be a comedian, so he looked up some jokes in a joke book before amateur mike night. [SEP] ambitious"
+1,He always thought he was more worthy than everyone for some reason. [SEP] pretentious
+1,James told Jenny he could not go out with her because he did not have time. [SEP] honest
+1,"In class, Brians teacher forgot he was there. [SEP] apathetic"
+1,"My girlfriend and I were doing laundry, but laundry is a woman's work and I let her do it [SEP] unhelpful"
+1,Joe wanted to climb the corporate ladder but didn't network with the top bosses. [SEP] halfheartedness
+1,"My mom asked me to come over and paint for her, but I told her I had other things to do [SEP] unhelpful"
+1,Mark went to a buffet and no matter what he could never eat more than one plate [SEP] satisfied
+1,"When James saw the email from the Nigerian prince, he instantly knew scammers had his email address. [SEP] clever"
+1,"When mary went to pick out decorations for the wedding, she chose to make it look like a jazz club [SEP] tasteless"
+1,"My girlfriend and I went out on a date, but I didnt want to spend any money so I made her pay the bill [SEP] cheap"
+1,"When sally came by to check up on bob after his surgery, he told her to leave [SEP] unappreciative "
+1,When John's friend cancelled plans John told him he was a bad friend. [SEP] angry
+1,Ella asked if the new girl wanted to eat lunch by herself in the bathroom. [SEP] mean
+1,James would rather die than reveal his sister's secrets. [SEP] faithful
+1,The man came home from work and let the puppy run out the door. [SEP] irresponsible
+1,"Mark had a problem, he could never bring himself to eat [SEP] anorexic"
+1,The man took his friend out to eat even though he didn't have a lot of money. [SEP] selfless
+1,James took a few bites of a scone and spit them out. [SEP] rude
+1,"The boss met with Bob right before Christmas, Bob asked for a raise he got a Bah Humbug instead. [SEP] selfish"
+1,"Kelly knew that her daughter was waiting for her to be picked up after school, but she went to get drinks with her coworkers after work. [SEP] irresponsible"
+1,James insisted that anyone could have done what he did. [SEP] humble
+1,He trapped the raccoons and then relocated them to anywhere they might get ate. [SEP] ruthless
+1,"James didn't feel liking studying, but he worked hard to get an A on the test. [SEP] DIligence"
+1,"I shopped for a new keyboard, reviewing 12  choices, then selecting one. [SEP] prudent"
+1,"The grandfather listened to the kids questions, shooing them away telling them they were done. [SEP] impatience."
+1,James didn't know what he wanted to major in by his tenth semester. [SEP] unfocused
+1,"I went for a coffee with charles, he wasnt sure if he wanted to go. [SEP] hesitant"
+1,"When Susie met her boyfriend's parents, they did not smile at her. [SEP] abrasive"
+1,Jill headed a political party that supported slashing welfare benefits. [SEP] merciless
+1,"James did not raise his voice, even after the kids he was babysitting fought each other for hours. [SEP] good temper"
+1,"As sheriff of the town, his made a name for himself by allowing rampant criminal activity. [SEP] irresponsible"
+1,He has a very challenging final tomorrow so he decided to stay up until 2 am watching cartoons. [SEP] lazy
+1,"Tommy and his friend got into a fight, so they made up and got some ice cream [SEP] friendly"
+1,"Terry started talking to a woman online, he told her that he's not looking for a relationship [SEP] candid"
+1,The secret service man prepared to do what ever he had to for the first family to fail. [SEP] treasonous
+1,"When Joe was given some money he needed, he got down on his knees and wept. [SEP] grateful"
+1,"When an elderly woman got on the full bus, James gave up his seat. [SEP] respectful"
+1,The little boy hid the fact that he stained the couch. [SEP] deceptive
+1,"When joe saw the destitute man on the street corner, he counted the money in his wallet as he walked past [SEP] callous"
+1,Ray had disappeared on Rita for 20 years. [SEP] undependable
+1,The man went to the back of the line when he was ready to check out. [SEP] respectful
+1,"When my daughter heard me tell her to stop, she did and said sorry. [SEP] caring"
+1,James refused to hire any lawyer who didn't have a law degree. [SEP] reasonable
+1,"Mark didnt think he deserved the award, but he really did [SEP] modest"
+1,James answered each job candidate's application with a low-pressure phone call. [SEP] personable
+1,"My friends and I went on a jog, one friend could not keep up so we all walked. [SEP] civility"
+1,James was always baffled when his friends told jokes. [SEP] humorless
+1,James was content with living in a trailer park. [SEP] unambitious
+1,He couldn't be stopped from taking a more advanced class. [SEP] ambitious
+1,"After several tries at uprooting the tree stump, Bill started using various tools to get it out. [SEP] persistence"
+1,The army general was caught by the enemy and he gave away the secrets. [SEP] unprincipled
+1,"Donald sat on his boat with his friends in the middle of the lake reflecting on life, he thought back on a time whenever he couldn't afford such luxuries [SEP] grateful"
+1,"My boyfriend said he was not going out to bars at night, so I looked at his phone to make sure. [SEP] distrustful"
+1,"Near the end of every year, the landlord left a bottle of wine outside every tenant's door. [SEP] Friendly"
+1,James showed the other students how to solve the math problems with a method that didn't produce the right answer.  [SEP] ineffectual
+1,James checked on his workers constantly because he expected them to slack off. [SEP] cynical
+1,He walked around the school like he was the only one that mattered. [SEP] pretentious
+1,He tried to steer the direction of every conversation. [SEP] domineering
+1,James refused to recognize his boss' authority because he hated hierarchy. [SEP] defiant
+1,"James took 3 years to finish a 4 year degree, despite working. [SEP] ambitious"
+1,Alison carried rather polarizing views compared to her classmates. [SEP] extremist
+1,The queen ordered that the terrified soldier was to be pardoned. [SEP] forgiving
+1,"When my girlfriend let me have my turn, she let me play for hours [SEP] generosity"
+1,"Mother came and asked me about the cookie I ate, I told her that I ate one and that I was sorry for not asking. [SEP] honest"
+1,James subscribed to a number of auto repair magazines. [SEP] masculine
+1,"My parents invited me to a  dinner, so I went and bought a  suit. [SEP] classy"
+1,"When James found out his girlfriend was seeing someone else, he told her parents so she'd be grounded. [SEP] revenging"
+1,"When he walked by the man living under the bridge, Steve handed the man a penny. [SEP] stingy"
+1,"Janice broke the vase, but she told her father that her sister had broken it. [SEP] dishonest"
+1,He hated when lower class people talked to him. [SEP] pretentious
+1,James' favorite elective in college was Philosophy 101. [SEP] rational
+1,Mary gave the kids the remaining cake although it meant none was left for her. [SEP] generous
+1,"Charlie won the lottery last week, he stopped talking to his friends. [SEP] pretentious"
+1,The woman told her ex that she hopes he gets his heart broken. [SEP] revenging
+1,James thought that the punishment for petty crime should be public caning. [SEP] harsh
+1,"When the boy was accused of cheating in class, he screamed at the teacher. [SEP] rashness"
+1,James was known for taking candy from babies. [SEP] meanness
+1,Susie noticed the attention Lisa was getting and did not like it. [SEP] envy
+1,Susie would text her boyfriend and he would never text back. [SEP] dodgy
+1,"The school child was told that the bully would meet him behind the school after last bell, he fled. [SEP] cowardice"
+1,Janine kept her mother's secret instead of telling her father. [SEP] reliable
+1,James was known for giving the same punishments to everyone. [SEP] just
+1,John could just get himself out of his somber mood. [SEP] optimistic
+1,"Logan's teacher stopped him to tell him how he's the smartest student in her class, he smiled and thanked her [SEP] humble"
+1,James thought his job as a teacher changed lives. [SEP] fulfilled
+1,The court was ruled by the gavel of a judge who made decisions based on personal connections. [SEP] dishonorable
+1,Matilda wanted her husband to make every decision about how she and her husband would live their lives. [SEP] meek
+1,"While looking through his mom's purse for her keys, Dylan saw a twenty dollar bill and put it in his pocket. [SEP] Dishonesty"
+1,You could crack his neck just by looking at him too hard. [SEP] delicate
+1,The sentence the judge handed down was altered by the man's race. [SEP] biased
+1,The lady admitted that she didn't see the point in going to the party. [SEP] gloomy
+1,"Mark and his friends asked john to come over, so they hung out all day and had a blast [SEP] cheerful"
+1,James was known for confronting reporters with piercing questions. [SEP] boldness
+1,"It was night outside and I had to take out the trash, I jumped at every little sound [SEP] coward"
+1,James' final paper included dozens of typos. [SEP] sloppy
+1,"When the boy's teacher assigned homework, he knew it was for him to learn. [SEP] understanding"
+1,John went to the gym wearing his favorite muscle shirt. [SEP] manly
+1,"Whenever Colt goes out with his friends, he never pays for them. [SEP] stinginess"
+1,John accepted their invitation to have a chat. [SEP] friendly
+1,The judge saw the look in the man's eyes and decided to punish him to the fullest extent of the law. [SEP] merciless
+1,James smiled slightly after his boss insulted his work ethic. [SEP] calm
+1,"When the boy forgot to do his homework, he told the teacher the dog ate it. [SEP] dishonest"
+1,James showed the mountain pass to his nation's enemies. [SEP] traitorous
+1,The man took most of the lamb from his neighbors after they cooked it. [SEP] greedy
+1,"He wasnt afraid of the boss firing him, so he said everything [SEP] audacity"
+1,Mike handles the knives in the kitchen unsteadily. [SEP] unskilled
+1,"When Susie's boss fired her, her boyfriend shrugged it off. [SEP] callous"
+1,The neighbor told him to never use his wify again. [SEP] unforgiving
+1,Alison drove up to Mike's house and he did not downplay his wealth. [SEP] arrogant
+1,When the reportor asked the actress her age she pussyfooted around the question. [SEP] deceptive
+1,James invested his money in roulette and slot machines. [SEP] reckless
+1,James took twenty minutes to say that he had a strong-smelling foot fungus. [SEP] wordy
+1,"On his employee evaluation, James wrote about how much he had to teach the other employees. [SEP] arrogant"
+1,James invariably raised his voice after one or two dissatisfied customers he had to deal with. [SEP] volatile
+1,"Josh and his friends went into the woods, he ran forwards to fight what ever was in the bushes [SEP] adventuresome"
+1,Pattys dog runs up to people with a wagging tail. [SEP] friendly
+1,"There was a dog tied up with no water, I looked and kept on walking while drinking my bottle of water. [SEP] ironhearted"
+1,James was absolutely certain someone else would be voted most likely to succeed. [SEP] humility
+1,James spent the afternoon pouring out his silliest jokes. [SEP] playful
+1,Sara planned the whole party and it cost under $100. [SEP] resourceful
+1,"I saw an old lady struggling to load the groceries in her car, but i loaded my groceries and drove away [SEP] unhelpful"
+1,She wanted to jump off the rocky cliff but stood back and watched her friends. [SEP] timidity
+1,"When James lost his credit card, he sighed and put off replacing it. [SEP] careless"
+1,The boy liked to wear lipstick to school. [SEP] feminine
+1,"Jason and his friend wanted to have some fun, the strapped themselves to the roof of their car and drove down the road [SEP] foolish"
+1,Stacy wore a Halloween costume that covered her body. [SEP] modest
+1,The young boy wanted to ride his bike down the huge hill without training wheels or a helmet. [SEP] adventurous
+1,"Jim repainted his house, he chose some muted blues and off whites [SEP] tasteful"
+1,The young boy insisted that he get a small slice of the cake and his sister get more. [SEP] selfless
+1,The teacher would take no excuses from students who did not turn their homework. [SEP] unforgiving
+1,James' knack for details led to a promotion in 2 years. [SEP] attentive
+1,The man stopped eating after his first plate of food at the buffet. [SEP] satisfied
+1,"When an elderly woman got on the full bus, James sat in the only seat. [SEP] disrespectful"
+1,Gary slept with Jenny time after time in her relationship with his best friend Greg [SEP] disloyal
+1,Melissa gave Ron the cold shoulder at his grandpa's funeral. [SEP] coldhearted
+1,"When James craved red meat, he bought nearly-expired beef from Walmart. [SEP] stinginess"
+1,James relied on his neighbors set up his new electronics. [SEP] tech-illiterate 
+1,John always dragged down his coworkers in hard times. [SEP] complaining
+1,James had allergies and a heart condition that made him spend most of the day in bed. [SEP] sickly
+1,James was always opposed to any form of compromise. [SEP] extremist
+1,"When James forgot his phone on the bus, he sighed because it happened often. [SEP] careless"
+1,Susie got top marks on her grades and kept it to herself. [SEP] modest
+1,"James grabbed a dozen candy bars and walked out, waving at the cashier. [SEP] shameless"
+1,James thought that the government should cut taxes on people with lots of money. [SEP] conservative
+1,She wanted the promotion so she stayed late every time they asked. [SEP] driven
+1,James enjoyed talking about the neurochemistry of substance use at length. [SEP] wordy
+1,"When Suzy saw that Jason dropped all of his papers onto the floor, she decided to just walk pass him. [SEP] unhelpful"
+1,When given the opportunity he would stuff his face for hours. [SEP] self-indulgence
+1,James found it easy to euthanize any pet that came to the shelter. [SEP] ironhearted
+1,"It was Jessica's first time living on her own, she could hardly do anything for herself. [SEP] helpless"
+1,James was known for sponteneously coming up with plays on words. [SEP] wittiness
+1,The words that came out of that mans mouth where stately and mesmerizing. [SEP] courtliness
+1,"James spent roughly the same amount of time on working, family and hobbies. [SEP] balanced"
+1,Marina got a gold bracelet and she wore it the whole day to give off an air to others.  [SEP] pretentious
+1,James refused to do the dishes and the laundry no matter how much his mother asked. [SEP] unhelpful
+1,"When the woman won an award, she thanked everyone who helped her. [SEP] humble"
+1,She told her mom to bring her a book now! [SEP] Demanding
+1,"James didn't react throughout the trial, because he was daydreaming. [SEP] bored"
+1,Susie went to her boyfriend's house for the first time insulted the family. [SEP] socially incompetent
+1,She fell to the ground when the bear headed towards her. [SEP] faintheartedness
+1,The woman wore a flowery dress to the party. [SEP] effeminate
+1,"After she broke the vase, Sherry told her mom that her brother was the one who did it. [SEP] dishonesty"
+1,The boy hid under the table when the teacher choked in the cafeteria. [SEP] skittish
+1,Alice wanted to meet her goal weight and was encouraged. [SEP] cheerful
+1,Everyone gawked at the painting of the nude old lady the man proudly unveiled at the dinner. [SEP] tasteless
+1,"I invited my girlfriend to my room, she was very interested in my bed. [SEP] lustful"
+1,The judge accepted the bribe and ruled in favor of the company. [SEP] unprincipled
+1,"Mark hated to exercise, he would only do a few minutes before watching tv all day. [SEP] self-indulgence"
+1,"When mark's car was hit, he got out and spoke in a raised voice [SEP] aggressive"
+1,The firefighter saw the fire and ran inside the building. [SEP] boldness
+1,"Before the battle, Mike headed towards the back lines. [SEP] cowardly"
+1,Alison always said the pledge when  she woke up. [SEP] patriotic
+1,James was always freelancing for the competitors when the business had extra customers. [SEP] disloyal
+1,James didn't fire his employees even after the tenth time they made a mistake. [SEP] forgiving
+1,James always hid in the toilet stalls when he had to change is clothes at the gym. [SEP] modest
+1,James was known for minimizing his past accomplishments. [SEP] modesty
+1,The woman snickered as the young boy attempted to play the guitar. [SEP] meanness
+1,Tina mowed the neighbors yard and avoided the flowers. [SEP] Diligent
+1,John would barely ever make just decisions regarding his coworkers. [SEP] biased
+1,Susie hated her country very much and never defended it. [SEP] treasonous
+1,"The nurse always checked in on time, assisting with the patients. [SEP] reliable"
+1,The teacher made the student turn in the paper the same day that his father died. [SEP] coldhearted
+1,"When James needed $100,000 to buy a house, he pretended to be a Nigerian prince. [SEP] deceptive"
+1,"James didn't feel liking studying, so he decided to accept an F on the test. [SEP] Laziness"
+1,"The woman said that her lineage was nothing, compared to theirs. [SEP] meek"
+1,James addressed his coworkers by job title instead of name. [SEP] impersonal
+1,James spent his twenties crashing on his brother's couch. [SEP] unambitious
+1,"When Susie lost the game, she cried to her family. [SEP] childish"
+1,The man watched the comedian with a blank stare. [SEP] humorless
+1,"You can tell Ben what you did, he will never tell anyone. [SEP] trustworthy"
+1,Alison always gave her children small gifts. [SEP] generosity
+1,"even though she was a woman, she really loved weightlifting [SEP] masculine"
+1,James liked to enjoy lengthy scented bubble baths. [SEP] self-indulgence
+1,Mark tearfully admitted that it was he who came outside to the manager and chewed him out. [SEP] honest
+1,My boss always worries about himself and does not care what happens to the Company. [SEP] egocentric
+1,"When the baby started crying louder, Amy turned her music up. [SEP] Mean"
+1,John would always tell everyone about his promotions. [SEP] boastful
+1,When Sara was asked about her new job she didn't mention the raise. [SEP] modesty
+1,The African American Man walked up to Lisa at the BMW dealership and she immediately asked him what model he was interested in. [SEP] reasonable
+1,Alison told Stacy she would never take her boyfriend from her but did anyways. [SEP] unreliable
+1,"Corey was waiting for his package to be delivered, he paced back and forth listening for the truck [SEP] eager"
+1,"Susie did not like that she was not number one, but still hugged number one. [SEP] good-hearted"
+1,"Tony's friend delayed their plans last minute, Tony decided not to wait [SEP] Impatient"
+1,The judge decided that he'd ignore the defense and called for recess. [SEP] one-sided
+1,"After Judy walked out of the doctor's office, her doctor told his secretary all about Judy's disease. [SEP] unethical"
+1,The girl's grandmother prodded her with knitting needles. [SEP] coldhearted
+1,"Sally heard a rumor about her friend, so she didnt spread it when she heard it [SEP] faithful"
+1,He did his best everyday to save for the future. [SEP] earnest
+1,The teacher controlled the food fight by stopping the eggers. [SEP] mature
+1,He grabbed her arm to make sure she didn't cut in line. [SEP] aggressive
+1,James always collected everyone's money for the lunch order and kept their change. [SEP] greedy
+1,She wore a top that exposed her chest completely. [SEP] tasteless
+1,The new intern decided to look at his video game while waiting for the boss. [SEP] unambitious
+1,"A part came up missing during the latest inventory, but Jill explained that she made a mistake and gave it to a customer. [SEP] honest"
+1,The new CEO insisted that every decision be personally approved by him. [SEP] domineering
+1,John would always leave the couch when he heard an alarm. [SEP] diligent
+1,Mark went to the buffet and had gotten himself just one portion. [SEP] satisfied
+1,I told everyone I was the very best player on the team. [SEP] conceit
+1,He didn't stop to size up the competition before rushing in. [SEP] rashness
+1,"When mark's dad was teasing him, he blew his stack. [SEP] irritable"
+1,"When we got an A on the group project, Matthew thanked the rest of us. [SEP] humble"
+1,"When someone rear-ended his car, James said he wanted a million dollars in damages. [SEP] litigious"
+1,My boyfriend cheated on me so I decided to see someone else. [SEP] avenging
+1,Carly slept over at the man's house on their first date. [SEP] licentious
+1,James choose stylish designer clothes with flare. [SEP] dashing
+1,The man laughed after someone told a joke about him. [SEP] good temper
+1,"When Susie's husband cheated on her, she did not care. [SEP] lax"
+1,"He could have stolen the watch, but he didnt. [SEP] honorable"
+1,James was always opposed to any change that wasn't gradual. [SEP] conservative
+1,"Whenever someone wronged him, he spent hours planning to get them back. [SEP] spiteful"
+1,Alison's teacher graded students she favored. [SEP] biased
+1,James bought a dog of the month calendar for his friend who loved dogs. [SEP] thoughtful
+1,James insisted on doing his taxes himself and never got audited. [SEP] independent
+1,"The man kept talking about how he, himself was very much the standard and wanted others to give to him. [SEP] narcissistic"
+1,Charles found out his brother stole his cell phone and has let himself move past it. [SEP] forgiving
+1,"Arnold was walking into the gas station when he noticed a man with a gun pointed at the cashier, Arnold disarmed the man [SEP] courage"
+1,"All of the boys were playing baseball when john fell, he cried because he skinned he knee [SEP] delicate"
+1,Susie's boyfriend was late to her birthday and Susie yelled at him. [SEP] furious
+1,I saw the new green car they had and I decided that I just had to have it. [SEP] envy
+1,James invested all his money in Blockbuster in 2010. [SEP] foolish
+1,"The school child was told that the bully would meet him behind the school after last bell, he marched back there. [SEP] boldness"
+1,"When James wanted to go to the movies, he told the usher he lost his ticket stub. [SEP] deceptive"
+1,Sally placed the documents on top of a pile of random papers on her desk. [SEP] disorganized
+1,Susie's boyfriend cheated on her but she took him back. [SEP] forgiving
+1,James was convinced the new hire deserved the promotion more than him. [SEP] humble
+1,On game night Jim made everyone play the games he wanted to play. [SEP] domineering
+1,The girl wore a sparkly silk top to the interview. [SEP] dashing
+1,"When Nancy walked her dog on the trail, she let him do his business just away from the pavement. [SEP] Considerate:"
+1,John decided not to take from the donation box. [SEP] honorable
+1,"When James' daughter didn't win the school's beauty pageant, he sued them for discrimination. [SEP] litigious"
+1,She offered him none of the extra coins she had. [SEP] cheap
+1,"When mark got a dog, he kept it in the cage all the time and never let it out [SEP] ironhearted"
+1,When his wife asked him how she looked in her dress he said she looked like a princess. [SEP] polite
+1,"I forgot my girlfriend's birthday, she broke up with me a month later. [SEP] unforgiving"
+1,Charlie was very pleased with the service but didn't leave a tip. [SEP] cheap
+1,James decorated with dining room in a 1970s disco style. [SEP] tasteless
+1,When I saw that the lamp was broken I asked my child what happened. [SEP] calm
+1,I ran behind the girls to stop the bus from hitting me. [SEP] cowardice
+1,Alison always needed direction to get the job done. [SEP] incompetent
+1,The young boy didn't want to ride his bike without training wheels and without a helmet. [SEP] timidity
+1,When given the opportunity he would not stuff his face for hours. [SEP] self control
+1,"When asked at the job interview what his worst character trait was, Homer said he always left work an hour or two early. [SEP] foolish"
+1,John looks down while passing his co-workers as he enters the building. [SEP] distant
+1,James took ninety seconds to run the quarter-mile to the convenience store. [SEP] fast
+1,"The girl repeatedly told her mother she got an A on her assignment, until her teacher called her mother and told her she got an F. [SEP] Liar"
+1,James let classmates who irked him cut in front of him in line. [SEP] forgiving
+1,The matron figured she'd  wear a one piece bathing suit while swimming. [SEP] modesty
+1,Jen locked her purse to a chair in the breakroom while she worked. [SEP] oversuspicious
+1,"When James saw that his friend got a new puppy, he spent the next day sulking. [SEP] resentful"
+1,"When James craved red meat, he bought Wagyu beef from Japan. [SEP] extravagant with money"
+1,"When Susie was confronted about stealing the gum, she said that she had no part. [SEP] dishonest"
+1,"Markus had raised his son to be rough, so when he fell, he didnt shed a single tear [SEP] tough"
+1,He always told his partner what to wear. [SEP] domineering
+1,"James took 10 years to finish a 4 year degree, despite not working. [SEP] lazy"
+1,James insisted that no one could have done what he did. [SEP] arrogant
+1,The man sued his mother in court when she owed him twenty dollars. [SEP] dishonorable
+1,He gave up on marrying her and he always regretted it. [SEP] cold feet
+1,Alison kissed Susie's boyfriend in front of her without a care. [SEP] shameless
+1,Mike had gone shopping and spent only $5 on a shake. [SEP] stinginess
+1,Susie lost out on the promotion and her husband made fun of her. [SEP] callous
+1,James had used deodorant and toothpaste without fail for years. [SEP] clean
+1,James spent almost as much time on grooming as he did on Instagram. [SEP] narcissistic
+1,"Mark and his friends asked John to come over, but he felt like they didn't really want him there. [SEP] cynical"
+1,"He was like that, he wouldn't even feed his guests. [SEP] stinginess"
